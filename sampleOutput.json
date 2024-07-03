@@ -1,0 +1,420 @@
+{
+    "status": "ok",
+    "totalResults": 1761,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jennifer Pattison Tuohy",
+            "title": "SmartThings adds Matter support for appliances and robot vacuums",
+            "description": "The move will bring Matter-compatible robot vacuums, fridges, washing machines, air purifiers, and more to Samsung’s smart home platform.",
+            "url": "https://www.theverge.com/2024/7/1/24189785/samsung-smartthings-matter-1-2-support-robot-vacuums",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/SCQERxZ4PE0wo8n-zUcmB4H4UWg=/0x0:1080x1080/1200x628/filters:focal(540x540:541x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25513308/R2_Image_2.jpg",
+            "publishedAt": "2024-07-01T14:30:05Z",
+            "content": "SmartThings adds Matter support for appliances and robot vacuums\r\nSmartThings adds Matter support for appliances and robot vacuums\r\n / Samsung is taking the lead in Matter adoption by adding full Mat… [+7231 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Facebook and Instagram’s ‘pay or consent’ ad model violates the DMA, says the EU",
+            "description": "Meta’s paid opt-out plan for Facebook and Instagram ads allegedly violates the EU by not giving users an option for a “similar experience” with less personalization.",
+            "url": "https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/E5LPkCRcJj-txc18rOrA4AFA5CI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24814378/STK450_European_Union_02.jpg",
+            "publishedAt": "2024-07-01T12:57:16Z",
+            "content": "Facebook and Instagrams pay or consent ad model violates the DMA, says the EU\r\nFacebook and Instagrams pay or consent ad model violates the DMA, says the EU\r\n / Meta joins Apple as the second big tec… [+2892 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Bleeding subscribers, cable companies force their way into streaming",
+            "description": "Companies like Charter brought about the streaming industry they now want to join.",
+            "url": "https://arstechnica.com/gadgets/2024/07/bleeding-subscribers-cable-companies-force-their-way-into-streaming/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/tv-remote-760x380.jpg",
+            "publishedAt": "2024-07-01T19:20:13Z",
+            "content": "40\r\nIt's clear that streaming services are the present and future of video distribution. But that doesn't mean that cable companies are ready to give up on your monthly dollars.\r\nA sign of this is Co… [+3892 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto)",
+            "title": "The Google Pixel 9 might crush the Galaxy S24 Ultra's screen game",
+            "description": "The Pixel 9 series is supposedly getting Samsung's latest and greatest OLED tech.",
+            "url": "https://www.androidcentral.com/phones/the-google-pixel-9-might-crush-the-galaxy-s24-ultras-screen-game",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/NeW7yGLqNLaYFmz8oh4bci-1200-80.jpg",
+            "publishedAt": "2024-07-01T10:56:33Z",
+            "content": "What you need to know\r\n<ul><li>The Google Pixel 9 might use Samsung’s top-notch M14 OLED display.</li><li>Samsung' advanced M14 screens supposedly offer better brightness, longevity, and power effici… [+2149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto)",
+            "title": "Your Android phone can now double as a hotel room key thanks to Google Wallet",
+            "description": "Google Wallet now stores your hotel room keys on your phone.",
+            "url": "https://www.androidcentral.com/apps-software/your-android-phone-can-now-double-as-a-hotel-room-key-thanks-to-google-wallet",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVmCk9Ug8dRT4g9HQBSgYX-1200-80.jpg",
+            "publishedAt": "2024-07-01T09:43:10Z",
+            "content": "What you need to know\r\n<ul><li>Google Wallet now lets you store digital hotel key cards on your Android phone, replacing physical keys and extra hotel apps.</li><li>You can add your digital key via t… [+2398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Nickolas Diaz)",
+            "title": "Go big or go home — the Galaxy Tab S10 series might ditch the basic model",
+            "description": "A report claims that Samsung could skip a base Galaxy Tab S10 model later this year.",
+            "url": "https://www.androidcentral.com/tablets/samsung-drops-basic-tab-s10-rumors",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MecTZdNduJtgy5X9p8xeHh-1200-80.jpg",
+            "publishedAt": "2024-07-01T18:52:51Z",
+            "content": "What you need to know\r\n<ul><li>A report claims that Samsung could drop a base Tab S10 model in favor of plugging display upgrades into its Plus and Ultra variants.</li><li>Supposedly, Samsung will sw… [+2550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "Some Apple Intelligence Features Likely to Require Paid Subscription",
+            "description": "Apple eventually plans to turn some of its artificial intelligence features into paid services, similar to iCloud+ subscriptions, according to Bloomberg reporter Mark Gurman.\n\n\n\n\n\nWriting in his latest Power On newsletter, Gurman said that while Apple Intelli…",
+            "url": "https://www.macrumors.com/2024/07/01/apple-intelligence-features-likely-paid-sub/",
+            "urlToImage": "https://images.macrumors.com/t/eNxYmCA1u77ZdJovI2KACUQ_lN0=/2500x/article-new/2024/06/Apple-Intelligence-General-Feature.jpg",
+            "publishedAt": "2024-07-01T10:51:36Z",
+            "content": "Apple eventually plans to turn some of its artificial intelligence features into paid services, similar to iCloud+ subscriptions, according to Bloomberg reporter Mark Gurman.\r\nWriting in his latest P… [+1124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Seeds Second Beta of macOS Sonoma 14.6 to Developers",
+            "description": "Apple today seeded the second beta of an upcoming macOS Sonoma 14.6 update to developers, with the second software coming two weeks after Apple released the first beta.\n\n\n\n\n\nRegistered developers can opt-in to the beta through the Software Update section of t…",
+            "url": "https://www.macrumors.com/2024/07/01/apple-seeds-macos-sonoma-14-6-beta-2/",
+            "urlToImage": "https://images.macrumors.com/t/hlTPUK2T2TO3h1-KxJcbOulRzRY=/1600x/article-new/2023/06/sonoma-desktop-wwdc.jpg",
+            "publishedAt": "2024-07-01T17:13:44Z",
+            "content": "Apple today seeded the second beta of an upcoming macOS Sonoma 14.6 update to developers, with the second software coming two weeks after Apple released the first beta.\r\nRegistered developers can opt… [+293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Seeds Second Beta of tvOS 17.6 to Developers",
+            "description": "Apple today seeded the second beta of an upcoming tvOS 17.6 to developers for testing purposes, with the second beta coming two weeks after the release of the first beta.\n\n\n\n\n\nRegistered developers are able to download the tvOS 17.6 update by opting in to the…",
+            "url": "https://www.macrumors.com/2024/07/01/apple-seeds-second-beta-of-tvos-17-6-to-developers/",
+            "urlToImage": "https://images.macrumors.com/t/E_urDANwhe0J--lgmnYT6INo_ow=/2500x/article-new/2022/07/apple-tv-4k-green.jpg",
+            "publishedAt": "2024-07-01T17:01:00Z",
+            "content": "Apple today seeded the second beta of an upcoming tvOS 17.6 to developers for testing purposes, with the second beta coming two weeks after the release of the first beta.\r\nRegistered developers are a… [+725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Releases Second Beta of visionOS 1.3 to Developers",
+            "description": "Apple today released the second beta of an upcoming visionOS 1.3 update to developers, allowing them to test new features ahead of the software seeing a public launch. The second ‌visionOS‌ 1.3 beta comes over two weeks after the release of the first beta.\n\n\n…",
+            "url": "https://www.macrumors.com/2024/07/01/apple-seeds-visionos-1-3-beta-2-to-developers/",
+            "urlToImage": "https://images.macrumors.com/t/g2mpLo9zAlopoFnItypXQvp7LqY=/1600x/article-new/2023/06/visionos-home-screen-mt-hood.jpg",
+            "publishedAt": "2024-07-01T17:05:00Z",
+            "content": "Apple today released the second beta of an upcoming visionOS 1.3 update to developers, allowing them to test new features ahead of the software seeing a public launch. The second ‌visionOS‌ 1.3 beta … [+488 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Seeds Second Beta of watchOS 10.6 to Developers",
+            "description": "Apple today seeded the second beta of an upcoming watchOS 10.6 update to developers for testing purposes, with the second beta coming two weeks after the release of the first beta.\n\n\n\n\n\nTo install the ‌watchOS 10.6 update, developers need to open the Apple Wa…",
+            "url": "https://www.macrumors.com/2024/07/01/apple-seeds-watchos-10-6-beta-2/",
+            "urlToImage": "https://images.macrumors.com/t/T9LvCyX5TC3cEOOFDRFgVrtLZTs=/1920x/article-new/2023/06/Apple-Watch-Faces-watchOS-10-Feature-Blue.jpg",
+            "publishedAt": "2024-07-01T17:03:00Z",
+            "content": "Apple today seeded the second beta of an upcoming watchOS 10.6 update to developers for testing purposes, with the second beta coming two weeks after the release of the first beta.\r\nTo install the wa… [+617 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "MacBook Owners With Faulty Butterfly Keyboards to Get Payouts Soon",
+            "description": "Two years after Apple paid $50 million to settle a class-action lawsuit over faulty MacBook butterfly keyboards, funds from the settlement will be going out to affected customers.\n\n\n\n\n\nAn update on the MacBook Keyboard Litigation Settlement website says that …",
+            "url": "https://www.macrumors.com/2024/07/01/macbook-pro-butterfly-keyboard-payout/",
+            "urlToImage": "https://images.macrumors.com/t/GGCpb1upY4KqruKd9gC6UTH2bYo=/1955x/article-new/2021/03/macbook-pro-butterfly-keyboard.jpg",
+            "publishedAt": "2024-07-01T20:09:52Z",
+            "content": "Two years after Apple paid $50 million to settle a class-action lawsuit over faulty MacBook butterfly keyboards, funds from the settlement will be going out to affected customers.\r\nAn update on the M… [+1600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "iPhone 16 Pro Models to Adopt 'M14' Advanced Samsung OLED Panels for Improved Brightness and Lifespan",
+            "description": "The upcoming iPhone 16 Pro and iPhone 16 Pro Max will be the first Apple smartphones to adopt Samsung's high performance \"M14\" OLED display panel, claims a new report coming out of South Korea.\n\n\n\n\n\nAccording to ETNews, Samsung's \"M\" series of OLED panels are…",
+            "url": "https://www.macrumors.com/2024/07/01/iphone-16-pro-max-advanced-oled-display/",
+            "urlToImage": "https://images.macrumors.com/t/xcTabKWMzOGvrlv91McWob6xGn0=/2000x/article-new/2024/06/iPhone-16-Pro-Front-Update-Blue.jpg",
+            "publishedAt": "2024-07-01T09:52:52Z",
+            "content": "The upcoming iPhone 16 Pro and iPhone 16 Pro Max will be the first Apple smartphones to adopt Samsung's high performance \"M14\" OLED display panel, claims a new report coming out of South Korea.\r\nAcco… [+1620 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Adrian Marlow",
+            "title": "Get 20% Off Tech Accessories With Journey's Fourth of July Sale",
+            "description": "Cue the fireworks: Journey is giving 20% off on countless tech accessories for the Fourth of July.",
+            "url": "https://www.cnet.com/deals/get-20-off-tech-accessories-for-journeys-fourth-of-july-sale/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/feab3476a93eacbeeb53496703b29edee5f82589/hub/2024/07/01/2e5aab9c-8c60-4430-9ab1-78b949292672/journeys-july4.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-01T18:40:00Z",
+            "content": "The Fourth of July is just a few days away and the deals are flowing in. Journey, which is known for their high quality battery packs, USB charger and other tech accessories, is having a huge sitewid… [+850 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Ian Sherr",
+            "title": "Samsung Reportedly Trying to Take Down Galaxy Z Fold 6, Z Flip 6 Images Ahead of Unpacked",
+            "description": "Samsung's latest leaks came a little over a week before the devices are expected to be announced.",
+            "url": "https://www.cnet.com/tech/mobile/samsung-reportedly-trying-to-take-down-galaxy-z-fold-6-z-flip-6-images-ahead-of-unpacked/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/38b169c5ee4931da54591ca4441efe156929b502/hub/2023/08/07/2f4b1939-686a-4114-9032-a467046ecbe3/z-flip-5-review-7.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-01T20:56:59Z",
+            "content": "We're just days away from Samsung Galaxy Unpacked on July 10, and the tech giant has now come about as close as possible to pre-announcing its news -- by sending reported takedown requests to the X s… [+2227 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Ian Sherr",
+            "title": "Meta Is Changing Artificial Intelligence Labels After Real Photos Were Marked As AI",
+            "description": "Advanced editing software is blurring the lines between real and AI-generated posts.",
+            "url": "https://www.cnet.com/tech/services-and-software/meta-is-changing-artificial-intelligence-labels-after-real-photos-were-marked-as-ai/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/83cd2ef109097449f6b863f6d83b28f8d4e3a7e8/hub/2024/05/15/2f48a1aa-8d66-4768-9939-f3070cb04fec/gettyimages-1481133084-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-01T22:00:09Z",
+            "content": "Meta is changing the labels it applies to social media posts suspected to have been generated in some way with artificial intelligence tools. The Facebook, Instagram, Threads and WhatsApp parent comp… [+2739 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Gael Cooper",
+            "title": "Today's Wordle Hints, Answer and Help for July 1, #1108",
+            "description": "Here's today's Wordle answer, plus a look at spoiler-free hints and past solutions. These clues will help you solve New York Times' popular puzzle game, Wordle, every day!",
+            "url": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-1-1108/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/592e28315757d67fe06917f7250e031fcfff808e/hub/2024/04/30/77eed7a6-020b-40f8-b23e-aed247f34865/word-games-wordle-ny-times-9494.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-07-01T03:00:08Z",
+            "content": "Today's Wordle answer might be a tough one, so scroll on if you're stumped. Every day, we post hints and then the answer for the current day's Wordle, just in case you need it.\r\nAlso, we've ranked al… [+3670 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "Apple Reclassifies iPhone X, HomePod, and Original AirPods as 'Vintage'",
+            "description": "Apple today reclassified the iPhone X, first-generation HomePod, and first-generation AirPods as \"vintage\" products.\n\n\n\n\n\nThe products appeared on Apple's vintage and obsolete products list earlier today. Products are considered vintage when Apple stopped dis…",
+            "url": "https://www.macrumors.com/2024/07/01/iphone-x-homepod-and-original-airpods-now-vintage/",
+            "urlToImage": "https://images.macrumors.com/t/3inxtG6rSW98CAKR1aOmWL_GYRM=/2144x/article-new/2021/03/homepod-feature-blue2.jpg",
+            "publishedAt": "2024-07-01T14:52:39Z",
+            "content": "Apple today reclassified the iPhone X, first-generation HomePod, and first-generation AirPods as \"vintage\" products.\r\nThe products appeared on Apple's vintage and obsolete products list earlier today… [+2887 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "iPhone and Apple Watch Likely to Support NFC Multi-Purpose Tap in the Future",
+            "description": "iPhones and Apple Watches could support multiple actions via NFC simultaneously in the future, the NFC Forum today suggested.\n\n\n\n\n\nThe NFC Forum, the leading standards body for Near Field Communication (NFC) technology, today published its first overview of N…",
+            "url": "https://www.macrumors.com/2024/07/01/iphone-likely-to-support-nfc-multi-purpose-tap/",
+            "urlToImage": "https://images.macrumors.com/t/VMWaZYQyQr5u14pdxbF2A5KZ6YM=/1600x/article-new/2022/04/apple-card-via-apple-pay.jpeg",
+            "publishedAt": "2024-07-01T15:43:03Z",
+            "content": "iPhones and Apple Watches could support multiple actions via NFC simultaneously in the future, the NFC Forum today suggested.\r\nThe NFC Forum, the leading standards body for Near Field Communication (… [+1305 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Seeds Second Betas of iOS 17.6 and iPadOS 17.6 to Developers",
+            "description": "Apple today seeded the second betas of upcoming iOS 17.6 and iPadOS 17.6 updates to developers for testing purposes, with the second betas coming two weeks after the first iOS and iPadOS 17.6 betas.\n\n\n\n\n\nRegistered developers are able to opt into the betas by…",
+            "url": "https://www.macrumors.com/2024/07/01/apple-seeds-ios-17-6-beta-2-to-developers/",
+            "urlToImage": "https://images.macrumors.com/t/yYLRf7x6pc4u28bqp35Q20qvBYk=/2500x/article-new/2024/05/iOS-17.6-Feature-Redux.jpg",
+            "publishedAt": "2024-07-01T17:08:19Z",
+            "content": "Apple today seeded the second betas of upcoming iOS 17.6 and iPadOS 17.6 updates to developers for testing purposes, with the second betas coming two weeks after the first iOS and iPadOS 17.6 betas.\r… [+616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Andee Tagle",
+            "title": "Ready to combine finances with your partner? You have options",
+            "description": "First comes love ... then comes money management discussions? Financial therapist Lindsay Bryan-Podvin discusses three common approaches that couples use to merge their money.",
+            "url": "https://www.npr.org/2024/07/01/g-s1-7478/how-to-combine-finances-with-your-partner",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/599x337+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F30%2F01c57b1149e789eada62c85421fc%2Fgettyimages-1294710830-wide-5b582badacb7497872af5bcf5cd806a55ab430b8.jpg",
+            "publishedAt": "2024-07-01T15:43:53Z",
+            "content": "If youre in a serious romantic relationship, you and your partner may be thinking about how to combine your finances. Should you share a joint bank account? Keep your accounts separate? Do a combinat… [+4969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "EU Competition Commissioner Says Apple's Decision To Pull AI From EU Shows Anticompetitive Behavior",
+            "description": "Apple's decision not to launch its own AI features in the EU is a \"stunning declaration\" of its anticompetitive behavior, European Commission Vice-President Margrethe Vestager said. From a report: About two weeks ago, Apple announced it will not launch its ho…",
+            "url": "https://apple.slashdot.org/story/24/07/01/144256/eu-competition-commissioner-says-apples-decision-to-pull-ai-from-eu-shows-anticompetitive-behavior",
+            "urlToImage": "https://a.fsdn.com/sd/topics/apple_64.png",
+            "publishedAt": "2024-07-01T14:04:00Z",
+            "content": "The EU is a train currently at full steam, and Apple is standing on its rails expecting it can stop it with malicious compliance tactics. They will soon understand this does not work with the EU.\r\nYo… [+316 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jordan Hart",
+            "title": "The iPhone 16 is less than 3 months away — here's what to expect",
+            "description": "Apple's upcoming iPhone 16 will feature Apple Intelligence AI, a smarter Siri and battery improvements, industry insiders report.",
+            "url": "https://www.businessinsider.com/apples-iphone-16-heres-what-we-know-ai-battery-i2024-7",
+            "urlToImage": "https://i.insider.com/6682cded1f0c1cd6d7302fb3?width=1200&format=jpeg",
+            "publishedAt": "2024-07-01T16:30:41Z",
+            "content": "The iPhone 16 is getting a new battery and an upgraded Siri.iFixit\r\n<ul><li>Apple's iPhone 16 is three months away from its official launch.</li><li>The company introduced Apple Intelligence in June.… [+1892 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "Apple finally gets some good news in China as iPhone shipments surge",
+            "description": "iPhone shipments in China soared about 40% in May according to Bloomberg calculations, suggesting a sales revival for Apple in a crucial market.",
+            "url": "https://www.businessinsider.com/apple-iphone-china-shipments-tech-stocks-smartphone-market-ai-shopping-2024-7",
+            "urlToImage": "https://i.insider.com/668292311aace5b3ada2ff42?width=1200&format=jpeg",
+            "publishedAt": "2024-07-01T11:31:10Z",
+            "content": "An Apple store in Shanghai.NurPhoto/Getty Images\r\n<ul><li>Apple's iPhone shipments in China surged 40% in May, according to Bloomberg calculations.</li><li>Shipments soared more than 50% in April, su… [+1792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Design-milk.com"
+            },
+            "author": "Vy Yang",
+            "title": "Desktop Wallpaper: July 2024 With David Mascha",
+            "description": "David Mascha's stunning \"Knot\" design invites viewers to get lost in the form and gradient of its graphic element for this Designer Desktop.",
+            "url": "https://design-milk.com/desktop-wallpaper-july-2024-with-david-mascha/",
+            "urlToImage": "https://design-milk.com/images/2024/06/July-2024-Desktop-Wallpaper-1280x1024-featured.jpg",
+            "publishedAt": "2024-07-01T14:00:26Z",
+            "content": "Kicking off the second half of the year for Designer Desktops is visual artist and type designer David Mascha who hails from Vienna, Austria. Known for his geometric patterns and use of vibrant color… [+1187 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Design-milk.com"
+            },
+            "author": "Gregory Han",
+            "title": "Eli Electric Vehicles’s micro-EV Is Designed for Urban Escapades",
+            "description": "Eli Electric is launching the ZERO and ZERO Plus micro-EVs, which aim to deliver a fully electric street legal driving experience for two passengers with a range of up to 90 miles.",
+            "url": "https://design-milk.com/eli-electric-vehicless-micro-ev-is-designed-for-urban-escapades/",
+            "urlToImage": "https://design-milk.com/images/2024/05/Eli-Zero-EV-01.jpg",
+            "publishedAt": "2024-07-01T13:00:52Z",
+            "content": "It seems fitting that Eli Electric Vehicles a crowdfunded startup focused on the developing micro-EVs with double-digit rechargeable range is based out of traffic-laden Los Angeles. With firsthand kn… [+3246 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sophie Atkinson",
+            "title": "AirPods could soon have IR cameras",
+            "description": "Apple is rumored to be upgrading AirPods by adding a camera, with expectations these could be mass-produced by 2026. The… Continue reading AirPods could soon have IR cameras\nThe post AirPods could soon have IR cameras appeared first on ReadWrite.",
+            "url": "https://readwrite.com/airpods-could-soon-have-ir-cameras/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/AirPods-scaled.jpg",
+            "publishedAt": "2024-07-01T14:31:11Z",
+            "content": "Apple is rumored to be upgrading AirPods by adding a camera, with expectations these could be mass-produced by 2026.\r\nThe report comes from technology analyst Ming-Chi Kuo who shared their thoughts t… [+1838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Sophie Atkinson",
+            "title": "EU could soon charge Meta over ‘pay or consent’ model",
+            "description": "The European Union is set to charge Meta, the parent company of Facebook and Instagram, with breaking its landmark Digital… Continue reading EU could soon charge Meta over ‘pay or consent’ model\nThe post EU could soon charge Meta over ‘pay or consent’ model a…",
+            "url": "https://readwrite.com/eu-could-soon-charge-meta-over-pay-or-consent-model/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2024/07/julio-lopez-kUATfFyJQQ4-unsplash-scaled.jpg",
+            "publishedAt": "2024-07-01T11:03:19Z",
+            "content": "The European Union is set to charge Meta, the parent company of Facebook and Instagram, with breaking its landmark Digital Markets Act.\r\nThe Financial Times on Monday (July 1) citeds people with dire… [+1911 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "Apple ya prepara unos AirPods con cámara incorporada",
+            "description": "Apple tiene grandes planes para los AirPods, uno de sus productos más populares. Según Ming-Chi Kuo, un popular analista que suele revelar con una alta tasa de aciertos información de los próximos productos de la marca, la compañía espera empezar en 2026 la p…",
+            "url": "http://hipertextual.com/2024/07/apple-ya-prepara-unos-airpods-con-camara-incorporada",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/09/DSC05449-scaled.jpg",
+            "publishedAt": "2024-07-01T08:11:19Z",
+            "content": "Apple tiene grandes planes para los AirPods, uno de sus productos más populares. Según Ming-Chi Kuo, un popular analista que suele revelar con una alta tasa de aciertos información de los próximos pr… [+2475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Gabriel Erard",
+            "title": "‘Fortnite’ queda a un paso de regresar al iPhone",
+            "description": "Epic Games ha dado un paso crucial para el regreso de Fortnite al iPhone. La compañía anunció el envío del popular juego y de la Epic Games Store al proceso de notarización de Apple para el arribo de ambos a iOS/iPadOS. El estudio espera que el próximo paso s…",
+            "url": "http://hipertextual.com/2024/07/fortnite-queda-a-un-paso-de-regresar-al-iphone",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2021/08/fortnite-scaled.jpg",
+            "publishedAt": "2024-07-01T18:57:50Z",
+            "content": "Epic Games ha dado un paso crucial para el regreso de Fortnite al iPhone. La compañía anunció el envío del popular juego y de la Epic Games Store al proceso de notarización de Apple para el arribo de… [+3427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "Este cambio va a hacer que los iPhone 16 tengan más batería y sean más fáciles de reparar",
+            "description": "A principios de año, un rumor revelaba que los iPhone 16 contarían con una batería de mayor capacidad, incrementando hasta en un 16 % su tamaño gracias a un nuevo diseño del componente, que tendría una forma de L. Ahora, una nueva filtración detalla que los p…",
+            "url": "http://hipertextual.com/2024/07/este-cambio-va-a-hacer-que-los-iphone-16-tengan-mas-bateria-y-sean-mas-faciles-de-reparar",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/02/camara-iphone-16.jpg",
+            "publishedAt": "2024-07-01T12:14:29Z",
+            "content": "A principios de año, un rumor revelaba que los iPhone 16 contarían con una batería de mayor capacidad, incrementando hasta en un 16 % su tamaño gracias a un nuevo diseño del componente, que tendría u… [+2290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "La UE acusa a Meta de violar la Ley de Mercados Digitales",
+            "description": "La Unión Europea está a punto de acusar a Meta por violar la Ley de Mercados Digitales (DMA, por sus siglas en inglés), que obliga a las grandes compañías a cumplir una serie de medidas para evitar prácticas monopolísticas, que puedan perjudicar a los usuario…",
+            "url": "http://hipertextual.com/2024/07/la-ue-acusa-a-meta-de-violar-la-ley-de-mercados-digitales",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/05/zuckerberg-meta.jpg",
+            "publishedAt": "2024-07-01T07:36:40Z",
+            "content": "La Unión Europea está a punto de acusar a Meta por violar la Ley de Mercados Digitales (DMA, por sus siglas en inglés), que obliga a las grandes compañías a cumplir una serie de medidas para evitar p… [+2528 chars]"
+        }]}
